@@ -1,0 +1,15 @@
+{
+  "name": "livestreaming",
+  "version": "1.0.0",
+  "description": "video live streaming",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bateshwar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
